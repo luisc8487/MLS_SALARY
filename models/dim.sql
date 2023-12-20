@@ -1,0 +1,1 @@
+select * from pc_fivetran_db.mls_sheet_2017.mls_salaries_2017
